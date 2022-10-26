@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.260" end="00:00:05.640" style="s2">I am the</p>
+<p begin="00:00:02.899" end="00:00:08.059" style="s2">Russian Federation, which is now</p>
+<p begin="00:00:05.640" end="00:00:11.059" style="s2">on the territory of Ukraine,</p>
+<p begin="00:00:08.059" end="00:00:11.059" style="s2">they say</p>
+<p begin="00:00:15.470" end="00:00:24.329" style="s2">the Russian officer is increasing on February 2</p>
+<p begin="00:00:21.230" end="00:00:24.329" style="s2">[music]</p>
+<p begin="00:00:25.010" end="00:00:32.090" style="s2">Republican Tatars of Putin, I understood that</p>
+<p begin="00:00:29.640" end="00:00:35.700" style="s2">you came here with clear</p>
+<p begin="00:00:32.090" end="00:00:39.540" style="s2">intentions, no one was waiting here with the flowers of the parents,</p>
+<p begin="00:00:35.700" end="00:00:43.800" style="s2">she asks us to extend and called</p>
+<p begin="00:00:39.540" end="00:00:46.980" style="s2">fascists the time of the battle for Putin&#39;s brigade of the</p>
+<p begin="00:00:43.800" end="00:00:51.930" style="s2">frame  most of you have made a terrible mistake,</p>
+<p begin="00:00:46.980" end="00:00:55.469" style="s2">most of you will know 20 with the help</p>
+<p begin="00:00:51.930" end="00:00:57.780" style="s2">of the SBU officers, I and my kind Vishera</p>
+<p begin="00:00:55.469" end="00:01:01.140" style="s2">spoke to the side in order to really</p>
+<p begin="00:00:57.780" end="00:01:03.480" style="s2">protect the peoples of the Nazis, we still have the</p>
+<p begin="00:01:01.140" end="00:01:06.570" style="s2">opportunity to stop the atrocities on the</p>
+<p begin="00:01:03.480" end="00:01:08.240" style="s2">territory of Ukraine, the</p>
+<p begin="00:01:06.570" end="00:01:10.640" style="s2"></p>
+<p begin="00:01:08.240" end="00:01:13.890" style="s2">top military leadership</p>
+<p begin="00:01:10.640" end="00:01:17.159" style="s2">allowed us real Russian soldiers to create units of the number of people</p>
+<p begin="00:01:13.890" end="00:01:19.200" style="s2">who went over to the side  ukrainian husband more</p>
+<p begin="00:01:17.159" end="00:01:21.530" style="s2">tasks together with our brothers</p>
+<p begin="00:01:19.200" end="00:01:24.920" style="s2">Belarusians and Ukrainians</p>
+<p begin="00:01:21.530" end="00:01:27.560" style="s2">brothers it’s alive you wake up</p>
+<p begin="00:01:24.920" end="00:01:31.070" style="s2">join our ranks</p>
+<p begin="00:01:27.560" end="00:01:34.549" style="s2">join the legion freedom of russia</p>
+<p begin="00:01:31.070" end="00:01:38.850" style="s2">only together we can save russia from</p>
+<p begin="00:01:34.549" end="00:01:41.180" style="s2">humiliation i will be born only together we will save</p>
+<p begin="00:01:38.850" end="00:01:41.180" style="s2">our</p>
+</div>
+</body>
+</tt>
